@@ -1,4 +1,4 @@
-# Flick Stream
+# Flicks Stream
 
 Testing API with Next JS
 
